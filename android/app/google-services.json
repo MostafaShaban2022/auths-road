@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "487985682399",
+    "project_id": "auths-road",
+    "storage_bucket": "auths-road.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487985682399:android:57b15183cec44ee39bd66a",
+        "android_client_info": {
+          "package_name": "com.example.auths_road"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-hoMrhsvuWlRIpgr9qdx0s8uL7vlVlTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
